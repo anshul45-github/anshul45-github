@@ -1,0 +1,4 @@
+- 👋 Hey there, Anshul! Welcome to the virtual hangout.
+- 👀 I’m diving headfirst into the world of competitive programming.
+- 🌱 I’m on this wild web development journey.
+- 📫 You can reach me at anshulmendiratta10d@gmail.com if you need to drop a line or send a digital high-five.
