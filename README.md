@@ -1,8 +1,8 @@
-**Second-Year Data Science Undergraduate**
-**IIT Mandi'27**
-**Languages**: Python, JavaScript, C++
-**Web Development**: HTML, CSS, JavaScript
-**Tools & Technologies**: Git, VSCode, Bootstrap
+**Second-Year Data Science Undergraduate**  
+**IIT Mandi'27**  
+**Languages**: Python, JavaScript, C++  
+**Web Development**: HTML, CSS, JavaScript  
+**Tools & Technologies**: Git, VSCode, Bootstrap  
 
 **What I’m Currently Learning:**  
 - Advanced DSA concepts  
