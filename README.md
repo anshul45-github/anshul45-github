@@ -16,4 +16,4 @@
 - Optimizing algorithms with dynamic programming.  
 - Developing web projects as part of my learning journey in full-stack development.
 
-- **Email**: [anshulmendiratta10d@gmail.com](mailto:anshulmendiratta10d@gmail.com)  
+**Email**: [anshulmendiratta10d@gmail.com](mailto:anshulmendiratta10d@gmail.com)  
