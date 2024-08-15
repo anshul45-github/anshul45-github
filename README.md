@@ -1,4 +1,19 @@
-- 👋 Hey there, Anshul! Welcome to the virtual hangout.
-- 👀 I’m diving headfirst into the world of competitive programming.
-- 🌱 I’m on this wild web development journey.
-- 📫 You can reach me at anshulmendiratta10d@gmail.com if you need to drop a line or send a digital high-five.
+- **Second-Year Data Science Undergraduate**
+- **IIT Mandi'27**
+
+- **Data Structures and Algorithms (DSA)**: Problem-solving, competitive programming, and exploring efficient algorithms.
+
+- **Languages**: Python, JavaScript, C++
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools & Technologies**: Git, VSCode, Bootstrap
+
+**What I’m Currently Learning:**  
+- Advanced DSA concepts  
+- Dynamic Programming  
+- Full-Stack Web Development
+
+**What I’m Working On:**  
+- Optimizing algorithms with dynamic programming.  
+- Developing web projects as part of my learning journey in full-stack development.
+
+- **Email**: [anshulmendiratta10d@gmail.com](mailto:anshulmendiratta10d@gmail.com)  
