@@ -3,7 +3,7 @@
   
 **Languages**: Python, JavaScript, C++  
 **Web Development**: HTML, CSS, JavaScript  
-**Tools & Technologies**: Git, VSCode, Bootstrap  
+**Tools & Technologies**: Node.js, Express.js, Git, VSCode, Bootstrap  
   
 **What I’m Currently Learning:**  
 - Advanced DSA concepts  
