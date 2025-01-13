@@ -7,8 +7,7 @@
   
 **What I’m Currently Learning:**  
 - Advanced DSA concepts  
-- Dynamic Programming  
-- Full-Stack Web Development
+- Machine Learning
   
 **What I’m Working On:**  
 - Optimizing algorithms with dynamic programming.  
